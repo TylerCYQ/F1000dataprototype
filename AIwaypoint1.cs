@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class waypoint1 : MonoBehaviour
+public class AIwaypoint1 : MonoBehaviour
 {
     public GameObject TheMarker;
     public GameObject Mark01;
