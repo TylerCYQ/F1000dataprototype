@@ -4,7 +4,7 @@ using UnityEngine;
 
 //Circuit 3 threepoint end script
 
-public class threepturnend : MonoBehaviour
+public class C3end : MonoBehaviour
 {
     public GameManager gManager;
 
