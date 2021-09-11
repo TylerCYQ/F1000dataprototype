@@ -4,7 +4,7 @@ using UnityEngine;
 
 //Circuit 5 Trigger 1 for End/Win Condition 
 
-public class pendingtrig : MonoBehaviour
+public class C5pendingtrig : MonoBehaviour
 {
     public GameObject greenlight;
 
