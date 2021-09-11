@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//For running redlight
+
 public class Redcollider : MonoBehaviour
 {
     public GameManager gManager;
