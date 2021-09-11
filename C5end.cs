@@ -4,7 +4,7 @@ using UnityEngine;
 
 //Conclusive Win Condition for Circuit 5
 
-public class EndTriggerFront : MonoBehaviour
+public class C5end : MonoBehaviour
 {
     public GameManager gManager;
 
