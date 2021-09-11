@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-//Conclusive Win Condition for Cirucit 7
+//GameManager 
 
 public class GameManager : MonoBehaviour
 {
