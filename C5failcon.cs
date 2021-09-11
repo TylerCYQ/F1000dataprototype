@@ -4,7 +4,7 @@ using UnityEngine;
 
 //Trigger script for fail condition for Circuit 5
 
-public class failcon : MonoBehaviour
+public class C5failcon : MonoBehaviour
 {
     public EndTriggerFront trigger;
 
