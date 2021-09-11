@@ -4,7 +4,7 @@ using UnityEngine;
 
 //Conclusive Lose Condition for Circuit 7
 
-public class LoseCon : MonoBehaviour
+public class c7LoseCon : MonoBehaviour
 {
     public GameManager gManager;
 
