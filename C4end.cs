@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//Win condition for circuit 4 hillclimb
+//End condition for circuit 4 hillclimb
 
-public class Wincon : MonoBehaviour
+public class C4end : MonoBehaviour
 {
     public GameObject RedLight;
 
