@@ -13,9 +13,12 @@ These are core scripts, needs to be added in the components of each scene
 MenuControl.cs
 GameManager.cs
 Loadmainmenu.cs
-failcon.cs
 levelContinue.cs
 pausemenu.cs
+
+/---For AI car waypoints---/
+Add and use this script
+AIwaypoint1.cs
 
 /---For timed circuits---/
 Add this into its component 
@@ -38,11 +41,37 @@ Add and use this script
 C4end.cs
 
 /---For circuit 5---/
+Add and use this script
+C5end.cs
+C5pendingtrig.cs
+C5failcon.cs
 
+/---For circuit 6---/
+Add and use this script
+C6jumpstart.cs
+c6Aicontrol.cs
+c6failend.cs
+circuit6end.cs
+firsttrig.cs
+secondtrig.cs
 
+/---For circuit 7---/
+Add and use this script
+c7AItrig.cs
+c7AItrig2.cs
+c7LoseCon.cs
+c7failend.cs
+c7firsttrig.cs
+c7secondtrig.cs
+c7thirdtrig.cs
+Simpleend.cs
 
+/---For mockup town---/
+Redcollider.cs
+Redlightscript.cs
+mastertrafficlight.cs
+Secondtrafficscript.cs
+offlinetrafficlight.cs
+secondarytrafficscript.cs
 
-
-
-
-
+//-----------------------//
